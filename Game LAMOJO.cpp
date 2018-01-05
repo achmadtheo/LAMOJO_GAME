@@ -11,8 +11,6 @@ string nama;
 
 int x = 3;
 int y = 3;
-int v_x = 0;
-int v_y = 0;
 int point = 0;
 char Maps[13][18];
 
